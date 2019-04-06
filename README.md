@@ -3,6 +3,7 @@ based on https://github.com/amdelamar/pm-theme
 
 # Instruction 
 - Go to "Settings" > "Appearance"
-- Copy/Past the content of the CSS file in "Custom theme" > "Save"
+- Copy/Past the content of "theme.css" in "Custom theme" > "Save"
 
 # Example :
+![Example](https://raw.githubusercontent.com/Squadz/Blue-Protonmail-Theme/master/example.jpg)

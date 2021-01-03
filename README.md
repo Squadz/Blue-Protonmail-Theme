@@ -1,4 +1,4 @@
-# Blue Theme for Protonmail
+# Protonmail - Grey blue Theme
 based on https://github.com/amdelamar/pm-theme
 
 # Instruction 
